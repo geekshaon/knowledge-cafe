@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "66408a53c7b8daa6a80017e9",
+    "index": 0,
+    "blogImg": "https://rexshaon.com/wp-content/uploads/2024/05/1-jpg.webp",
+    "profileImg": "https://rexshaon.com/wp-content/uploads/2024/05/boy2-jpg.webp",
+    "title": "How to get your first job as a self-taught programmer",
+    "Author": "Md. Raju",
+    "date": "may 6",
+    "ReadTime": 5
+  },
+  {
+    "_id": "66408a537249317230c9af8d",
+    "index": 1,
+    "blogImg": "https://rexshaon.com/wp-content/uploads/2024/05/2.png",
+    "profileImg": "https://rexshaon.com/wp-content/uploads/2024/05/boy2-jpg.webp",
+    "title": "How to get your first job as a self-taught programmer",
+    "Author": "MD. Solaiman",
+    "date": "may 6",
+    "ReadTime": 5
+  },
+  {
+    "_id": "66408a531a9fd0bda412a288",
+    "index": 2,
+    "blogImg": "https://rexshaon.com/wp-content/uploads/2024/05/3.png",
+    "profileImg": "https://rexshaon.com/wp-content/uploads/2024/05/boy1.png",
+    "title": "Why seo is import for react developer",
+    "Author": "Rohim Islam",
+    "date": "jun 6",
+    "ReadTime": 7
+  },
+  {
+    "_id": "66408a53111f13286b467015",
+    "index": 3,
+    "blogImg": "https://rexshaon.com/wp-content/uploads/2024/05/4-jpg.webp",
+    "profileImg": "https://rexshaon.com/wp-content/uploads/2024/05/girl1-jpg.webp",
+    "title": "How to become Best web develper in 6 month in 2024",
+    "Author": "Tuly",
+    "date": "may 9",
+    "ReadTime": 10
+  }
+]
