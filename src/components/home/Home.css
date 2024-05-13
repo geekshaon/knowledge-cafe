@@ -3,3 +3,24 @@
   display: grid;
   grid-template-columns: 2fr 1fr;
 }
+.bookMark {
+  background-color: rgb(95, 143, 143);
+  padding: 15px;
+  border-radius: 15px;
+}
+.bookMark p {
+  background-color: aliceblue;
+  padding-left: 5px;
+  border-radius: 10px;
+}
+.readTime {
+  background-color: rgb(201, 200, 200);
+  padding: 5px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.readTime h4 {
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+}

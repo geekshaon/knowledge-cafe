@@ -40,3 +40,7 @@
 .markbtn:hover {
   color: rgb(22, 21, 22);
 }
+.bookmark {
+  color: red;
+  font-weight: 800;
+}
